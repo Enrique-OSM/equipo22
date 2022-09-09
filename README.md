@@ -1,2 +1,2 @@
-# equipo501
-repositorio del equipo 501
+# equipo22
+repositorio del equipo 22
